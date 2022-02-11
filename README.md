@@ -1,8 +1,8 @@
 # Bonfire
 
-### Packages
+### Release
 
-You can download zip files in [packages](https://github.com/orgs/bonfire-io/packages?repo_name=bonfire)
+You can download zip files in [releases](https://github.com/bonfire-io/bonfire/releases)
 
 ### Promotion
 
